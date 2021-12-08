@@ -1,0 +1,8 @@
+C:\Users\Дмитрий\source\repos\bin\WebClientBin\MegaTestServer.dll.config
+C:\Users\Дмитрий\source\repos\bin\WebClientBin\MegaTestServer.dll
+C:\Users\Дмитрий\source\repos\bin\WebClientBin\MegaTestServer.pdb
+C:\Users\Дмитрий\source\repos\MegaTestServer\MegaTestServer\obj\Debug\MegaTestServer.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\MegaTestServer\MegaTestServer\obj\Debug\MegaTestServer.csproj.CopyComplete
+C:\Users\Дмитрий\source\repos\MegaTestServer\MegaTestServer\obj\Debug\MegaTestServer.dll
+C:\Users\Дмитрий\source\repos\MegaTestServer\MegaTestServer\obj\Debug\MegaTestServer.pdb
+C:\Users\Дмитрий\source\repos\MegaTestServer\MegaTestServer\obj\Debug\MegaTestServer.csproj.AssemblyReference.cache
